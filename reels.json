@@ -5,7 +5,8 @@
     "bookTitle": "Húrin'in Çocukları",
     "author": "J.R.R. Tolkien",
     "quote": "This last thing I will tell you:\nthough all else in Middle-earth be enslaved,\nMorgoth shall not enslave me.",
-    "amazonLink": "https://www.amazon.com.tr/s?k=Hurin+Cocuklari"
+    "amazonLink": "https://www.amazon.com.tr/s?k=Hurin+Cocuklari",
+    "coverImage": "https://m.media-amazon.com/images/I/71wLpWj+pLL._AC_UF1000,1000_QL80_.jpg"
   },
   {
     "id": "2",
@@ -13,7 +14,8 @@
     "bookTitle": "Karamazov Kardeşler",
     "author": "Fyodor Dostoyevski",
     "quote": "It's not God that I don't accept, Alyosha,\nonly I most respectfully return Him the ticket.",
-    "amazonLink": "https://www.amazon.com.tr/s?k=Karamazov+Kardesler"
+    "amazonLink": "https://www.amazon.com.tr/s?k=Karamazov+Kardesler",
+    "coverImage": "https://m.media-amazon.com/images/I/41sJg8y-RXL._AC_UF1000,1000_QL80_.jpg"
   },
   {
     "id": "3",
@@ -21,7 +23,8 @@
     "bookTitle": "Suç ve Ceza",
     "author": "Fyodor Dostoyevski",
     "quote": "Poverty is not a vice, that's a true saying.\nBut beggary, beggary is a vice.",
-    "amazonLink": "https://www.amazon.com.tr/s?k=Suc+ve+Ceza"
+    "amazonLink": "https://www.amazon.com.tr/s?k=Suc+ve+Ceza",
+    "coverImage": "https://m.media-amazon.com/images/I/41d1gVUk1yL._AC_UF1000,1000_QL80_.jpg"
   },
   {
     "id": "4",
@@ -29,7 +32,8 @@
     "bookTitle": "Yeraltından Notlar",
     "author": "Fyodor Dostoyevski",
     "quote": "I am a sick man… I am a spiteful man… I am an unattractive man..",
-    "amazonLink": "https://www.amazon.com.tr/s?k=Yeralti+Notlar"
+    "amazonLink": "https://www.amazon.com.tr/s?k=Yeralti+Notlar",
+    "coverImage": "https://m.media-amazon.com/images/I/51H3B5-F+RL._AC_UF1000,1000_QL80_.jpg"
   },
   {
     "id": "5",
@@ -37,7 +41,7 @@
     "bookTitle": "Yüzük Kardeşliği",
     "author": "J.R.R. Tolkien",
     "quote": "Baggins…",
-    "amazonLink": "https://www.amazon.com.tr/s?k=Yuzuklerin+Efendisi"
+    "amazonLink": "https://www.amazon.com.tr/s?k=Yuzuklerin+Efendisi",
+    "coverImage": "https://m.media-amazon.com/images/I/91Ul21+jX+L._AC_UF1000,1000_QL80_.jpg"
   }
 ]
-
